@@ -17,11 +17,5 @@ The repository contains the following core Java files:
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-Make sure you have the Java Development Kit (JDK 8 or higher) installed on your system.
-
-```bash
-java -version
 
